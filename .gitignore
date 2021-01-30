@@ -1,0 +1,3 @@
+storage/*.log*
+storage/universe
+starbound-docker-image.tar
