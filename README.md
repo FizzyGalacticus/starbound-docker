@@ -4,7 +4,7 @@ This repo contains the necessary definitions for running a Starbound server in D
 
 ## Requirements
 
-* A valid Linux Starbound installation
+* A valid Linux Starbound Dedicated Server installation
 * make
 * docker + docker-compose in your `PATH`
 

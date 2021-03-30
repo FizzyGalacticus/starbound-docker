@@ -12,7 +12,6 @@ RUN mkdir -p /game/storage
 
 COPY assets /game/assets
 COPY linux /game/linux
-COPY tiled /game/tiled
 
 WORKDIR /game/linux
 
